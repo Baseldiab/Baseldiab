@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Basel diab
-Saurabh</a></h1>
+<h1 align="center">Hi 👋, I'm Basel diab </a></h1>
+
 <h3 align="center">A passionate Front-end web developer (Angular)</h3>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 - 🔭 A Junior frontend web developer that works with other developers to improve the appearance of a website.
 
