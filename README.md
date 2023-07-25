@@ -6,9 +6,9 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Frontend angular developer that works with other developers to improve the appearance of a website.
+- 🔭 Highly skilled frontend angular developer with a passion for creating user friendly and visually appealing web applications.
 
-- 🌱 I have experience with HTML, CSS, Bootstrab, JavaScript, typescript and Angular  
+- 🌱 I can utilize my experience in HTML, CSS, Bootstrab, JavaScript, typescript, Angular and responsive design to contribute to the development of innovative digital experiences.  
 
 - 🤝 i can implement solutions that are user responsive and efficient.
 
