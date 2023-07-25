@@ -13,6 +13,8 @@
 - 🤝 i can implement solutions that are user responsive and efficient.
 
 - 🌱 i have knowledge of the entire web development process.
+
+- 🎓 NTI graduated fullstack.mern (web desigh , web development using NodeJs and Angular)
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
