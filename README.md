@@ -6,9 +6,9 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 A Junior frontend web developer that works with other developers to improve the appearance of a website.
+- 🔭 Frontend angular developer that works with other developers to improve the appearance of a website.
 
-- 🌱 I have experience with HTML, CSS , JavaScript, Bootstrab and Angular  
+- 🌱 I have experience with HTML, CSS, Bootstrab, JavaScript, typescript and Angular  
 
 - 🤝 i can implement solutions that are user responsive and efficient.
 
