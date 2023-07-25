@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Basel diab </a></h1>
+<h1 align="center">Hi 👋, I'm Basel Diab </a></h1>
 
 <h3 align="center">A passionate Front-end web developer (Angular)</h3>
 
