@@ -16,7 +16,7 @@
   
 - 🎓 Graduated from NTI with a Fullstack MERN certification, specializing in web design and web development using Node.js and Angular.
 
-  <br/>
+  ---
 
 ### 🛠️ My Skills
 
