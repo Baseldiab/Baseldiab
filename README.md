@@ -33,10 +33,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img alt="JS" src="https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=Javascript&logoColor=white"/>
     </a>
-      &emsp;
-  <a href="https://www.tutorialspoint.com/cprogramming/index.htm">
-      <img alt="C" src="https://img.shields.io/badge/Programming-5766B6?style=for-the-badge&logo=C&logoColor=white"/>
-    </a>
+
   <!-- &emsp;
   <a href="https://www.python.org">
       <img alt="Python" src="https://img.shields.io/badge/ Python-F2A22C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -51,33 +48,48 @@
   <a href="https://tailwindcss.com/">
       <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-19B5B2?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
     </a>
+	    &emsp;
+    <a href="https://ant.design/">
+      <img alt="=AntDesign" src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"/>
+    </a>
+    &emsp;
+    <a href="https://mui.com">
+      <img alt="=MUI" src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=MUI&logoColor=white"/>
+    </a>  
+    &emsp;
+    <a href="https://ui.shadcn.com/">
+  <img alt="shadcn UI" src="https://img.shields.io/badge/shadcn%20UI-000000?style=for-the-badge&logoColor=white"/>
+</a> 
   </p>
-
+  
 - ##### JS Libraries :
   <p>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  <img alt="React" src="https://img.shields.io/badge/React-00d8ff?style=for-the-badge&logo=React&logoColor=white"/> </a>
   &emsp;
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">  <img alt="next" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> </a>
   &emsp;
-  <a href="https://redux.js.org">
-      <img alt="=Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
-    </a>
-    &emsp;
-  <a href="https://zustand-demo.pmnd.rs/">
-      <img alt="=Zustand" src="https://img.shields.io/badge/Zustand-007ACC?style=for-the-badge&logo=zustand&logoColor=white"/>
-    </a>
-    &emsp;
-  <a href="https://ant.design/">
-      <img alt="=AntDesign" src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"/>
-    </a>
-    &emsp;
-    <a href="https://mui.com">
-      <img alt="=MUI" src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=MUI&logoColor=white"/>
-    </a>
-    &emsp;
   <a href="https://jquery.com">
       <img alt="=JQuery" src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white"/>
     </a>
+  &emsp;
+  <a href="https://angular.io/">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  </a>
+  </p>
+
+- ##### state management :
+    <p>
+     <a href="https://redux.js.org">
+      <img alt="=Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
+     </a>
+     &emsp;
+     <a href="https://zustand-demo.pmnd.rs/">
+      <img alt="=Zustand" src="https://img.shields.io/badge/Zustand-007ACC?style=for-the-badge&logo=zustand&logoColor=white"/>
+     </a>
+     &emsp;
+     <a href="https://tanstack.com/query/latest/docs/framework/react/overview">
+  <img alt="React Query" src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"/>
+</a>
   </p>
 
 - ##### Bundling tools
