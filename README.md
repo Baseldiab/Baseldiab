@@ -5,7 +5,7 @@
 
 - 🔭 Highly Skilled Frontend React Developer with a passion for creating user-friendly and visually appealing web applications.
 
-- 🌱 I leverage my experience in HTML, CSS, Sass, Bootstrap, Tailwind CSS, JavaScript, TypeScript, React.js, Redux Toolkit, Zustand, Redux, MUI, Ant Design, react-i18next, Wouter, 
+- 🌱 I leverage my experience in HTML, CSS, Sass, Bootstrap, Tailwind CSS, JavaScript, TypeScript, React.js, Redux Toolkit, Zustand,React query, Shadcn UI, Redux, MUI, Ant Design, react-i18next, Wouter, 
       react-hook-form, Zod, JSDoc, js-cookie, Axios, Cypress, Next.js, Angular, and responsive design to contribute to the development of innovative digital experiences.  
 
 -  I implement solutions that are both user-responsive and efficient.
