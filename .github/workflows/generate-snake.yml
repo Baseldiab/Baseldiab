@@ -17,7 +17,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
-          github_user_name: Baseldiab
+          github_user_name: "Baseldiab"  # Make sure your username is quoted
           outputs: dist/snake.svg
 
       - name: Commit and push the snake
