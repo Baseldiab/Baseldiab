@@ -1,23 +1,9 @@
 
 <h2 align="left">Hi 👋! My name is Basel Diab and I'm a Software Engineer.</h2>
 
-<h1 align="center">Hi 👋, I'm Basel Diab </a></h1>
-
-<h3 align="center">Front-end web developer (React Js & Next Js)</h3>
-
-
-- 🔭 Highly Skilled Frontend React Developer with a passion for creating user-friendly and visually appealing web applications.
-
-- 🌱 I leverage my experience in HTML, CSS, Sass, Bootstrap, Tailwind CSS, JavaScript, TypeScript, React.js, Redux Toolkit, Zustand,React query, Shadcn UI, Redux, MUI, Ant Design, react-i18next, Wouter, 
-      react-hook-form, Zod, JSDoc, js-cookie, Axios, Cypress, Next.js, Angular, and responsive design to contribute to the development of innovative digital experiences.  
-
--  I implement solutions that are both user-responsive and efficient.
-
-- 🌱 I possess comprehensive knowledge of the entire web development process.
-  
-- 🎓 Completed a Frontend Developer React.js course at MEC Academy, covering HTML, CSS, JavaScript, Sass, Bootstrap, Tailwind CSS, React.js, Redux, Redux Toolkit, and Next.js.
-  
-- 🎓 Graduated from NTI with a Fullstack MERN certification, specializing in web design and web development using Node.js and Angular.
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
+    I specialize in crafting modern, responsive digital experiences using HTML, CSS, JavaScript, and TypeScript. My expertise includes React.js, Next.js, Redux Toolkit, Zustand, and Tailwind CSS, among other advanced tools. I am skilled in leveraging libraries like React Query, Ant Design, MUI, and Cypress to deliver high-quality solutions. With a solid foundation in Angular and full-stack MERN development, I aim to innovate and elevate user interfaces.I specialize in crafting modern, responsive digital experiences using HTML, CSS, JavaScript, and TypeScript. My expertise includes React.js, Next.js, Redux Toolkit, Zustand, and Tailwind CSS, among other advanced tools. I am skilled in leveraging libraries like React Query, Ant Design, MUI, and Cypress to deliver high-quality solutions. With a solid foundation in Angular and full-stack MERN development, I aim to innovate and elevate user interfaces.
+</div>
 
   ---
 
@@ -141,12 +127,6 @@
   &emsp;
   <a href="https://pnpm.io/" target="_blank" rel="noreferrer"> <img alt="pnpm" src="https://img.shields.io/badge/pnpm-333333?style=for-the-badge&logo=pnpm&logoColor=white"/> </a>
   </p>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BaselDiab&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ---
 
