@@ -1,12 +1,12 @@
-<h2 align="left">Hi 👋! My name is Basel Diab and I'm a Software Engineer.</h2>
 
+<h2 align="left">Hi 👋! I'm Basel Diab, a Software Engineer.</h2>
 
-  <img align="right"  width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img align="right" width="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages Graph" />
 
-<div >
-   I specialize in building responsive digital experiences using HTML, CSS, JavaScript, TypeScript, React.js, and Next.js. I have expertise in Redux , Zustand, Tailwind CSS, MUI, Ant design, Shadcn ui, and libraries like React Query and Cypress. With a solid foundation in full-stack MERN development, I focus on delivering high-quality, innovative solutions.
-</div>
-</br>
+👨‍💻 Frontend Developer  </br>
+🔧 Specializing in React.js, Next.js, and modern UI frameworks like Tailwind CSS and Material UI.</br>
+🚀 Experienced with state management tools (Redux, Zustand) and libraries like React Query.</br>
+💡 Focused on delivering high-quality, scalable solutions with a strong foundation in MERN stack development.</br>
 </br>
 
   ---
