@@ -7,9 +7,23 @@
 <div >
    I specialize in building responsive digital experiences using HTML, CSS, JavaScript, TypeScript, React.js, and Next.js. I have expertise in Redux , Zustand, Tailwind CSS, MUI, Ant design, Shadcn ui, and libraries like React Query and Cypress. With a solid foundation in full-stack MERN development, I focus on delivering high-quality, innovative solutions.
 </div>
-</br>
-</br>
 
+<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contact with me 🤝 </h3>
+
+ <div align="left"  class="icons-social" style="margin-left: 10px;">
+
+
+   <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/basel-diab-94b526259/">
+	     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+   </a>
+    <a style="margin-left: 10px;" target="_blank" href="mailto:baseldaib21@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@baseldiab4988">
+   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    </a>
+</div>
+  
   ---
 
 ### 🛠️ My Skills
@@ -33,7 +47,6 @@
       <img alt="Python" src="https://img.shields.io/badge/ Python-F2A22C?style=for-the-badge&logo=python&logoColor=white"/>
     </a> -->
   </p>
-
 
 - ##### CSS/UI frameworks :
   <p>
@@ -135,27 +148,5 @@
 
 ---
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-
-
-   <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/basel-diab-94b526259/">
-	     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-   </a>
-    <a style="margin-left: 10px;" target="_blank" href="mailto:baseldaib21@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@baseldiab4988">
-   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-    </a>
-</div>
-
-
-<br clear="both">
-
 <img 
 width ="100%"	src="https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake animation" />
-
-###
-   
