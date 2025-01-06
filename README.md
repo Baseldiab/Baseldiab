@@ -1,9 +1,14 @@
 
 <h2 align="left">Hi 👋! My name is Basel Diab and I'm a Software Engineer.</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
-    I specialize in crafting modern, responsive digital experiences using HTML, CSS, JavaScript, and TypeScript. My expertise includes React.js, Next.js, Redux Toolkit, Zustand, and Tailwind CSS, among other advanced tools. I am skilled in leveraging libraries like React Query, Ant Design, MUI, and Cypress to deliver high-quality solutions. With a solid foundation in Angular and full-stack MERN development, I aim to innovate and elevate user interfaces.I specialize in crafting modern, responsive digital experiences using HTML, CSS, JavaScript, and TypeScript. My expertise includes React.js, Next.js, Redux Toolkit, Zustand, and Tailwind CSS, among other advanced tools. I am skilled in leveraging libraries like React Query, Ant Design, MUI, and Cypress to deliver high-quality solutions. With a solid foundation in Angular and full-stack MERN development, I aim to innovate and elevate user interfaces.
+
+  <img align="right"  width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<div >
+   I specialize in building responsive digital experiences using HTML, CSS, JavaScript, TypeScript, React.js, and Next.js. I have expertise in Redux , Zustand, Tailwind CSS, MUI, Ant design, Shadcn ui, and libraries like React Query and Cypress. With a solid foundation in full-stack MERN development, I focus on delivering high-quality, innovative solutions.
 </div>
+</br>
+</br>
 
   ---
 
